@@ -1,0 +1,13 @@
+region,segment,actual_sales,actual_profit,customers
+Central,Corporate,157996,18704,180
+Central,Home Office,91213,12438,121
+Central,Consumer,252031,8564,328
+East,Consumer,350908,41191,344
+East,Home Office,127464,26709,124
+East,Corporate,200409,23623,206
+South,Consumer,195581,26914,276
+South,Corporate,121886,15215,152
+South,Home Office,74255,4621,84
+West,Consumer,362881,57451,358
+West,Corporate,225855,34437,204
+West,Home Office,136722,16530,124
